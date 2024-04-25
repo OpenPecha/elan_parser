@@ -16,8 +16,7 @@
 - [@kaldan007](https://github.com/kaldan007)
 
 ## Integrations
-
-<!-- Add any intregrations here or delete `- []()` and write None-->
+>pip install git+https://github.com/OpenPecha/elan_parser.git
 
 None
 ## Docs
